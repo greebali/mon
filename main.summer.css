@@ -1,0 +1,7 @@
+/* Code tidied up by ScrapBook */
+#header .graphic {  }
+h1, h1 *, h2, h2 * { color: rgb(0, 0, 0); }
+h1.title, div.specialBoxDescription div.head div.title h2, div.specialBoxDescription div.head div.title h2 a { color: rgb(218, 92, 0); }
+div.objPositioned { background-color: rgb(248, 245, 239); }
+div.objPositioned div a { color: rgb(218, 92, 0); }
+a.objPositioned { color: rgb(218, 92, 0); }

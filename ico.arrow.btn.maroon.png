@@ -1,0 +1,25 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2"><title>ALTe.pl - BŁĄD : ERROR</title><style type="text/css">
+<!--
+body,td {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #324259;}
+body {background-color: #e1e6eb;}
+a {font-size: 18px; color: FF6633; font-weight: bold;}
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:hover {text-decoration: underline;}
+a:active {text-decoration: none;}
+.err1 {color: #FF6633; font-size: 72px; font-weight: bold;}
+.err2 {font-size: 22px; font-weight: bold;}
+.foot {font-size: 11px;}
+-->
+</style></head><body><table width="100%" height="100%"  border="0"><tr><td align="center" valign="middle">
+<table border="0" cellpadding="20" cellspacing="1" bgcolor="#324259"><tr><td align="center" bgcolor="#CBD1D8"><span class="err1">BŁĄD &middot; ERROR</span><br><br>
+
+<span class="err2">
+[404] Plik nie istnieje &middot; File Not Found
+</span></td></tr><tr><td align="center" bgcolor="#AFC2C8"><br><br>
+Podany w zapytaniu URL <strong>/img/ico.arrow.btn.maroon.png</strong> nie został odnaleziony na tym serwerze.
+<br><br>
+The requested URL <strong>/img/ico.arrow.btn.maroon.png</strong> was not found on this server.
+<br><br><br></td></tr><tr><td align="center" bgcolor="#CBD1D8"><span class="foot">Serwis utrzymywany na serwerach &middot; Hosted by</span><br>
+<A class="menu_bottom" HREF="mailto:admin@alte.pl?subject=Error:%20[404]%20File Not Found,%20URL=/img/ico.arrow.btn.maroon.png">ALTe.pl</A>
+</td></tr></table></body></html>

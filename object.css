@@ -1,0 +1,5 @@
+/* Code tidied up by ScrapBook */
+.object-detail-title { padding-left: 14px; }
+.object-detail-title .badge { display: inline-block; vertical-align: middle; }
+.object-detail-title .badge div.badge { background-color: rgb(255, 109, 0); border-radius: 5px; color: rgb(255, 255, 255); text-transform: uppercase; padding: 0.25em 0.75em; margin-bottom: 5px; margin-left: 0.5em; }
+.noclegi-banner img { max-width: 100%; }
