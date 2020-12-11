@@ -1,0 +1,78 @@
+/* Code tidied up by ScrapBook */
+@media only screen and (min-width: 100px) and (max-width: 769px) {
+  dl.contact.top dd:last-child { margin-right: 0px; }
+  .photoBox { width: 300px !important; }
+  .photoBox img { width: 280px !important; height: auto !important; }
+  .noclegi-link { display: block; margin-bottom: 30px; }
+  .noclegi-link img { width: 100%; height: auto; }
+  #wrapper {  }
+  #sliderWrapper { top: 40px !important; }
+  #topmap div.search { display: none !important; }
+  .centerBox { width: 320px; }
+  h1.title { margin-top: 0px; font-size: 25px; line-height: 30px; }
+  h2, h2 * { font-size: 21px; }
+  h1.border { font-size: 20px; margin-top: 20px; padding-bottom: 5px; float: left; width: 100%; margin-bottom: 0px; }
+  .box-list ul li div.title, .box-list ul li div.title a, .box250.fltlft .oferty-specjalne-noclegow .box-list ul li div.title a { font-size: 15px; }
+  .oferty-specjalne-noclegow .box-list ul li div.title a, .oferty-specjalne-gastronomii .box-list ul li div.title a { line-height: 22px; }
+  #topWrapper { background: rgb(0, 55, 101) none repeat scroll 0% 0%; }
+  #header .logo { margin-top: -18px; }
+  #header .logo a { width: 125px; background-size: cover; height: 60px; }
+  #menuIcons { float: right; }
+  #header .menu { float: left; }
+  #container { width: 310px; padding: 5px; }
+  .box400 { width: 100%; }
+  .box400 .adban img { max-width: 310px; height: auto; }
+  .adban { margin: 0px 0px 20px; }
+  .box300 { width: 100%; }
+  .aktualnosci .box-list ul li.first div.title a { font-size: 16px; line-height: 22px; }
+  .aktualnosci .box-list ul li div.title a { font-size: 15px; }
+  #container .box250.fltlft { display: table-footer-group; float: none; }
+  #container .box830.fltrgt { display: table-header-group; float: none; }
+  #mainLeft, #mainRight, .box840, .box830, .box250.leftCol, .box800, .box250.fltrgt, .box370 { width: 100%; }
+  .box800.noclegi { width: 310px; }
+  .box800.noclegi ul.col3 li { margin-left: 0px; width: 100%; }
+  .box300.wyszukiwarka { width: 310px; margin: 0px; }
+  .box250.leftCol { margin-top: 30px; border-top: 1px solid rgb(230, 230, 230); padding-top: 30px; }
+  #mainRight { border-top: 1px solid rgb(230, 230, 230); margin-top: 10px; padding: 30px 0px 0px; width: 100%; }
+  #mainRight .adban img { width: 310px; height: auto; }
+  #mainRight .top { float: left; margin: 0px; }
+  #mainRight .mainPage { width: 100%; }
+  #rotation { height: 135px; }
+  #rotation div.rotationPhoto, #rotation div.rotationPhoto div.photo, #rotation div.rotationPhoto div.photo a.photo { width: 310px; height: 135px; overflow: hidden; }
+  #rotation div.rotationPhoto div.photo a.photo img { width: 440px; }
+  .box-list ul li div.title { margin: 5px 0px 8px; }
+  .aktualnosci .box-list ul li.first .conternt, .oferty-specjalne-noclegow .box-list ul li .conternt, .oferty-specjalne-gastronomii .box-list ul li .conternt { font-size: 12px; line-height: 16px; }
+  div.more-border-top, h2.noMarginLeft { padding: 0px; }
+  #footer .menu { width: 320px; margin: auto; }
+  #footer .menu ul li { line-height: 30px; padding: 0px 0px 0px 5px; margin: 0px 0px 0px 5px; font-size: 12px; }
+  .menu-list ul li a { padding: 11px 0px 11px 7px; font-size: 17px; }
+  .menu-list ul ul li a { font-size: 18px; padding: 10px 2px 10px 20px; background-position: 7px 16px; }
+  .box .content, .box .content p, .box .content div, .box .content td, .box .content th, .box .content li, .box .content dd, .box .content dt { font-size: 15px; line-height: 20px; }
+  .rightPic { width: 500px; }
+  .leftPic { width: 210px; }
+  .content p img { max-width: 100%; height: auto; }
+  .box .radius div.col { width: 100%; }
+  .tabs, .tabsStd { padding-top: 0px; }
+  .ui-tabs .ui-tabs-nav { position: relative; }
+  .ui-tabs .ui-tabs-nav li { padding: 0px 3px; margin-right: 3px; }
+  .ui-tabs .ui-tabs-nav li a span { text-transform: none; font-size: 14px; font-weight: normal; padding-top: 8px; }
+  .ui-tabs .ui-tabs-nav li.ui-tabs-selected { padding-bottom: 0px; }
+  .ui-tabs .ui-tabs-nav li, .ui-tabs .ui-tabs-nav li a { height: 35px; }
+  div.row div.obj { width: 305px; margin: 0px 0px 20px; border-top: 1px solid rgb(239, 239, 239); padding-top: 10px; }
+  .lista .conternt { font-size: 12px; }
+  .box .content table { width: 100% !important; }
+  .box .content table td, .box .content table td * { font-size: 10px !important; }
+  .attraction-list ul li { width: 310px; margin: 0px 0px 20px !important; padding-top: 0px; }
+  .attraction-list ul li img { width: 310px; }
+  .attraction-list .clearfix { display: none; }
+  .attraction-list ul li p { margin: 5px 5px 0px; }
+  .radius div.subconternt { padding: 8px 5px; }
+  .box720 { width: 100%; }
+  table.photo td a img.smPic { margin: 0px 3px 6px; width: 135px; }
+  .contact-form { padding: 0px 8px 8px; }
+  .radiusSmOrange div.subconterntHeadOrange h2 { font-size: 18px; margin-bottom: 20px; }
+  .box278 { width: 100%; margin-top: 30px; }
+  div.specialBox { width: 305px; margin: 0px 0px 20px; }
+  .object-menu { display: none; }
+  dl.contact.top dd { font-size: 14px; }
+}
